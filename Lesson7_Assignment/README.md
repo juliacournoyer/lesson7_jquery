@@ -13,7 +13,7 @@ Julia Cournoyer
 Using an application that has to do with a cooking recipe for a brownie, we are abel to utilize different techniques of jQuery to make the website interactive and responsive.
 
 ### View Project:
-https://juliacournoyer.github.io/lesson7_jquery/
+https://juliacournoyer.github.io/lesson7_jquery/Lesson7_Assignment/
 
 ### Lessons Learned in the Assignment:
 1. How to make text fade in
